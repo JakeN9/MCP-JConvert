@@ -10,6 +10,4 @@ This done using a simple python script and files from the MCP project.
 4) You should see the converted files in the out folder.
 
 
-~ Please understand this process is not 100% accurate and may require you to change some function/field names.
-Jake.
 
